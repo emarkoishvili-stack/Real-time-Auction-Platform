@@ -1,0 +1,6 @@
+{
+  "name": "Real-time Auction Platform",
+  "description": "A highly polished, real-time numismatic auction platform for rare coins and banknotes, featuring synchronized live bidding, active countdown timers, and expert AI coin appraisal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
